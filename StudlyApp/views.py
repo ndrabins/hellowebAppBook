@@ -1,10 +1,10 @@
 from django.shortcuts import render
+from StudlyApp.models import SchoolClasses
 
 # Create your views here.
 def index(request):
-    number = 6
-    thing = "Thing name"
+    classes = SchoolClasses.objects.all()
+
     return render(request, 'index.html', {
-        'number': number,
-        'thing': thing,
+        'classes': classes,
     })
