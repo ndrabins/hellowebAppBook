@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+
+{% block title %}
+    {{  schoolClass.name }} - {{ block.super }}
+{% endblock title %}
+
+{% block content %}
+    <h1>{{  schoolClass.name }}</h1>
+    <p>{{ schoolClass.description }}</p>
+{% endblock content %}

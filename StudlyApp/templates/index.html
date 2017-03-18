@@ -13,9 +13,13 @@
     <body>
         {% block content %}
            {% for class in classes %}
-            <h2>{{ class.name }}</h2>
-            <p>{{ class.description }}</p>
-            {% endfor %}
+               <h2>
+                    <a href="{% url 'class_detail' slug=class.slug %}">
+                        {{ class.name }}
+                    </a>
+               </h2>
+               <p>{{ thing.description }}</p>
+           {% endfor %}
         {% endblock content %}
     </body>
 </html>
