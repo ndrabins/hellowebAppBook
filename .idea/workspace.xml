@@ -2,52 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51704e25-14da-46f6-b13c-6024aac56588" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StudlyApp/templates/Course/course_detail.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/StudlyApp/templates/schoolClasses/class_detail.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/conf/locale/es_AR/LC_MESSAGES/django.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/conf/locale/tt/LC_MESSAGES/django.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/contrib/admin/locale/bs/LC_MESSAGES/django.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/contrib/admin/locale/ga/LC_MESSAGES/django.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/contrib/admin/locale/ml/LC_MESSAGES/djangojs.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/contrib/admin/locale/th/LC_MESSAGES/django.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/contrib/admin/static/admin/js/prepopulate.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/contrib/admindocs/locale/br/LC_MESSAGES/django.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/contrib/admindocs/locale/lv/LC_MESSAGES/django.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/contrib/auth/locale/gl/LC_MESSAGES/django.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/contrib/auth/locale/udm/LC_MESSAGES/django.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/contrib/contenttypes/locale/da/LC_MESSAGES/django.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/contrib/contenttypes/locale/mn/LC_MESSAGES/django.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/contrib/flatpages/locale/ast/LC_MESSAGES/django.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/contrib/flatpages/locale/km/LC_MESSAGES/django.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/contrib/flatpages/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/contrib/gis/db/backends/spatialite/adapter.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/contrib/gis/geoip2/resources.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/contrib/gis/locale/eo/LC_MESSAGES/django.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/contrib/gis/locale/ru/LC_MESSAGES/django.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/contrib/humanize/locale/it/LC_MESSAGES/django.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/contrib/messages/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/contrib/postgres/locale/es_MX/LC_MESSAGES/django.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/contrib/redirects/locale/bs/LC_MESSAGES/django.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/contrib/redirects/locale/mk/LC_MESSAGES/django.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/contrib/sessions/backends/base.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/contrib/sessions/locale/is/LC_MESSAGES/django.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/contrib/sessions/management/commands/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/contrib/sites/locale/fr/LC_MESSAGES/django.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/contrib/sites/locale/sw/LC_MESSAGES/django.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/core/cache/backends/dummy.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/db/backends/sqlite3/introspection.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/db/transaction.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/template/utils.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/django/utils/numberformat.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip/_vendor/appdirs.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip/_vendor/html5lib/filters/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip/_vendor/requests/packages/chardet/langthaimodel.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StudlyApp/admin.py" afterPath="$PROJECT_DIR$/StudlyApp/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StudlyApp/models.py" afterPath="$PROJECT_DIR$/StudlyApp/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StudlyApp/static/css/style.css" afterPath="$PROJECT_DIR$/StudlyApp/static/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StudlyApp/templates/index.html" afterPath="$PROJECT_DIR$/StudlyApp/templates/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StudlyApp/views.py" afterPath="$PROJECT_DIR$/StudlyApp/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StudlyApp/templates/base.html" afterPath="$PROJECT_DIR$/StudlyApp/templates/base.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/studly/settings.py" afterPath="$PROJECT_DIR$/studly/settings.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/studly/urls.py" afterPath="$PROJECT_DIR$/studly/urls.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,11 +27,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="edit_course.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StudlyApp/templates/Course/edit_course.html">
+      <file leaf-file-name="registration_form.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StudlyApp/templates/registration/registration_form.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            <state relative-caret-position="180">
+              <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -84,8 +40,8 @@
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/studly/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="29" column="58" lean-forward="false" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="58" />
+            <state relative-caret-position="93">
+              <caret line="41" column="4" lean-forward="false" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
               <folding>
                 <element signature="e#640#672#0" expanded="true" />
               </folding>
@@ -93,48 +49,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/StudlyApp/views.py">
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/StudlyApp/templates/registration/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="30" column="57" lean-forward="true" selection-start-line="30" selection-start-column="57" selection-end-line="30" selection-end-column="57" />
-              <folding>
-                <element signature="e#0#45#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="course_detail.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StudlyApp/templates/Course/course_detail.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+            <state relative-caret-position="255">
+              <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="forms.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StudlyApp/forms.py">
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StudlyApp/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#34#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StudlyApp/static/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-              <folding>
-                <marker date="1489868345756" expanded="true" signature="5:44" ph="{...}" />
-              </folding>
+            <state relative-caret-position="279">
+              <caret line="27" column="50" lean-forward="true" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -145,8 +75,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -170,10 +100,8 @@
         <option value="$PROJECT_DIR$/TEMPORARY/apps.py" />
         <option value="$PROJECT_DIR$/StudlyApp/static/style.css" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/StudlyApp/templates/base.html" />
         <option value="$PROJECT_DIR$/StudlyApp/templates/about.html" />
         <option value="$PROJECT_DIR$/StudlyApp/templates/contact.html" />
-        <option value="$PROJECT_DIR$/studly/settings.py" />
         <option value="$PROJECT_DIR$/StudlyApp/templates/schoolClasses/forms.py" />
         <option value="$PROJECT_DIR$/StudlyApp/templates/schoolClasses/class_detail.html" />
         <option value="$PROJECT_DIR$/StudlyApp/models.py" />
@@ -186,8 +114,21 @@
         <option value="$PROJECT_DIR$/StudlyApp/static/css/style.css" />
         <option value="$PROJECT_DIR$/StudlyApp/templates/Course/course_detail.html" />
         <option value="$PROJECT_DIR$/StudlyApp/templates/Course/edit_course.html" />
-        <option value="$PROJECT_DIR$/studly/urls.py" />
         <option value="$PROJECT_DIR$/StudlyApp/views.py" />
+        <option value="$PROJECT_DIR$/studly/settings.py" />
+        <option value="$PROJECT_DIR$/StudlyApp/templates/registration/logout.html" />
+        <option value="$PROJECT_DIR$/StudlyApp/templates/registration/registration_complete.html" />
+        <option value="$PROJECT_DIR$/StudlyApp/templates/registration/registration_form.html" />
+        <option value="$PROJECT_DIR$/StudlyApp/templates/base.html" />
+        <option value="$PROJECT_DIR$/StudlyApp/templates/registration/password_change_done.html" />
+        <option value="$PROJECT_DIR$/StudlyApp/templates/registration/password_change_form.html" />
+        <option value="$PROJECT_DIR$/StudlyApp/templates/registration/password_reset_complete.html" />
+        <option value="$PROJECT_DIR$/StudlyApp/templates/registration/password_reset_confirm.html" />
+        <option value="$PROJECT_DIR$/StudlyApp/templates/registration/password_reset_done.html" />
+        <option value="$PROJECT_DIR$/StudlyApp/templates/registration/password_reset_email.txt" />
+        <option value="$PROJECT_DIR$/StudlyApp/templates/registration/password_reset_form.html" />
+        <option value="$PROJECT_DIR$/studly/urls.py" />
+        <option value="$PROJECT_DIR$/StudlyApp/templates/registration/login.html" />
       </list>
     </option>
   </component>
@@ -277,6 +218,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Studly" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Studly" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StudlyApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="registration" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -558,7 +521,7 @@
     <frame x="75" y="82" width="1845" height="998" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17342968" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22290161" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962757" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -566,7 +529,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288889" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.60555553" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -609,30 +572,12 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/StudlyApp/templates/Course/edit_course.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/studly/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding>
-            <element signature="e#640#672#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/StudlyApp/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="35" column="21" lean-forward="false" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="21" />
           <folding>
-            <element signature="e#0#45#0" expanded="true" />
+            <element signature="e#0#45#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -660,7 +605,7 @@
         <state relative-caret-position="480">
           <caret line="35" column="21" lean-forward="false" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="21" />
           <folding>
-            <element signature="e#0#45#0" expanded="true" />
+            <element signature="e#0#45#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -678,7 +623,7 @@
         <state relative-caret-position="30">
           <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="16" />
           <folding>
-            <element signature="e#0#34#0" expanded="true" />
+            <element signature="e#0#34#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -721,7 +666,7 @@
         <state relative-caret-position="60">
           <caret line="4" column="40" lean-forward="false" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
           <folding>
-            <element signature="e#0#45#0" expanded="true" />
+            <element signature="e#0#45#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -764,13 +709,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StudlyApp/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="34" lean-forward="false" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -824,18 +762,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/studly/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/StudlyApp/static/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
           <folding>
             <marker date="1489868345756" expanded="true" signature="5:44" ph="{...}" />
           </folding>
@@ -847,7 +777,7 @@
         <state relative-caret-position="60">
           <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="16" />
           <folding>
-            <element signature="e#0#34#0" expanded="true" />
+            <element signature="e#0#34#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -863,28 +793,132 @@
     <entry file="file://$PROJECT_DIR$/StudlyApp/templates/Course/edit_course.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudlyApp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="30" column="57" lean-forward="false" selection-start-line="30" selection-start-column="57" selection-end-line="30" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studly/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="130" column="27" lean-forward="false" selection-start-line="130" selection-start-column="27" selection-end-line="130" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudlyApp/templates/registration/logout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudlyApp/templates/registration/registration_complete.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudlyApp/templates/registration/password_change_done.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudlyApp/templates/registration/password_change_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudlyApp/templates/registration/password_reset_complete.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudlyApp/templates/registration/password_reset_confirm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="22" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudlyApp/templates/registration/password_reset_done.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudlyApp/templates/registration/password_reset_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudlyApp/templates/registration/password_reset_email.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudlyApp/templates/registration/registration_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudlyApp/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="27" column="50" lean-forward="true" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/studly/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="29" column="58" lean-forward="false" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="58" />
+        <state relative-caret-position="93">
+          <caret line="41" column="4" lean-forward="false" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
           <folding>
             <element signature="e#640#672#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StudlyApp/views.py">
+    <entry file="file://$PROJECT_DIR$/StudlyApp/templates/registration/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="30" column="57" lean-forward="true" selection-start-line="30" selection-start-column="57" selection-end-line="30" selection-end-column="57" />
-          <folding>
-            <element signature="e#0#45#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="255">
+          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
