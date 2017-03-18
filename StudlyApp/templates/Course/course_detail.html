@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block title %}
+    {{  course.name }} - {{ block.super }}
+{% endblock title %}
+
+{% block content %}
+    <h1>{{  course.name }}</h1>
+    <p>{{ course.description }}</p>
+    <a href="{% url 'edit_course' slug=course.slug %}">Edit me!</>
+{% endblock content %}

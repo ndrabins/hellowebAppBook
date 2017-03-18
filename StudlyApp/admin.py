@@ -1,11 +1,11 @@
 from django.contrib import admin
 
 # Register your models here.
-from StudlyApp.models import SchoolClasses
+from StudlyApp.models import Course
 
-class SchoolClassesAdmin(admin.ModelAdmin):
-    model = SchoolClasses
+class CourseAdmin(admin.ModelAdmin):
+    model = Course
     list_display = ('name', 'description')
     prepopulated_fields = {'slug': ('name',)}
 
-admin.site.register(SchoolClasses, SchoolClassesAdmin)
+admin.site.register(Course, CourseAdmin)

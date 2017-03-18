@@ -12,13 +12,13 @@
     </head>
     <body>
         {% block content %}
-           {% for class in classes %}
+           {% for course in courses %}
                <h2>
-                    <a href="{% url 'class_detail' slug=class.slug %}">
-                        {{ class.name }}
+                    <a href="{% url 'course_detail' slug=course.slug %}">
+                        {{ course.name }}
                     </a>
                </h2>
-               <p>{{ thing.description }}</p>
+               <p>{{ course.description }}</p>
            {% endfor %}
         {% endblock content %}
     </body>
