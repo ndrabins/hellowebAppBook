@@ -1,12 +1,21 @@
+{% extends 'base.html' %}
+{% load humanize %}
 {% load staticfiles %}
+
+
 <!doctype html>
 <html>
     <head>
-        <title>My Hello Web App Project</title>
-        <link rel="stylesheet" href="{% static 'css/style.css' %}" />
+        {% block title %}
+            Homepage - {{ block.super }}
+        {% endblock title %}
     </head>
     <body>
-        <h1>Studly</h1>
-        <p>HUMBLE BEGINNINGS</p>
+        {% block content %}
+            <h1>Hello World!</h1>
+            <p>I am a basic website.</p>
+            <p>There are {{ number|apnumber }} dogs!</p>
+            <p>This is my name: {{ thing|slugify }}</p>
+        {% endblock content %}
     </body>
 </html>
