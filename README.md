@@ -18,7 +18,11 @@
 * take in actions and update part of applications state updated data gets sent to store
         
 # React Native
+
         
 # Django
 ## Django Rest API
     
+
+
+https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
